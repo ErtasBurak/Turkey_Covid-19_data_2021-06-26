@@ -1,4 +1,4 @@
-# Turkey_Covid-19_datas_2021-06-26
+# Turkey_Covid-19_data_2021-06-26
 ------
 ## This Project contains the vaccination datas from 2021-06-26
 
