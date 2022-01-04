@@ -7,6 +7,4 @@
 ### [The dataset](https://www.kaggle.com/omercolakoglu/turkey-covid-19-vaccination-data)
 
 
-```
-print("meryalc")
-```
+
